@@ -1,0 +1,7 @@
+    /** Complexite Temporelle : displayPlayliste() ==> O(n)
+         * la premiere condition if(count == 0) s'execute en temps constant O(1) 
+         * la boucle while(chansonJouee < count ) s'execute pour un maximum de count fois 
+         * Donc O(n) , ou n le nombre de chansons dans la playlist 
+         * les autre verification if , print , mise a jour de index ce fait en temps constant O(1)
+          */
+
